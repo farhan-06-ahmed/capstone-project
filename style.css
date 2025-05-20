@@ -1,0 +1,157 @@
+.page{
+    width: 1300px;
+}
+
+
+
+.main-container{
+    background-color: #e4f9f5;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #66bfbf;
+}
+
+.main-container h3{
+    font-family: "Sacramento", cursive;
+    font-size: 100px;
+}
+.cloud-1{
+    padding-left: 400px;
+    padding-top: 100px;
+}
+.cloud-2{
+    padding-right: 50px;
+}
+
+.main-container h4{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    padding-left: 70px;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.profile img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+    
+}
+.profile {
+    padding-left: 0px;
+    font-size: xx-large;
+    justify-content: center;
+     font-family: "Montserrat", sans-serif;
+     color: #66bfbf;
+;
+}
+.intro{
+   text-align: center;
+
+  
+   color: gray;
+}
+
+.skills{
+    display: flex;
+    justify-content: center;
+    color: #66bfbf;
+     font-family: "Montserrat", sans-serif;
+     font-size: xx-large;
+}
+.cat-typing{
+    display: flex;
+    justify-content: center;
+    font-family: "Merriweather", serif;
+    color: #40514e;
+}
+.text{
+    width: 300px;
+    line-height: 2;
+    
+}
+.design{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+}
+.chillies{
+    display: flex;
+    justify-content: center;
+    font-family: "Merriweather", serif;
+    margin-top: 20px;
+    color: #40514e;
+}
+
+.chillies img{
+    height: 125px;
+    width: 121px;
+    position: relative;
+    margin-left : 80px;
+   
+}
+.chillies p{
+    width: 300px;
+    margin-left: 60px;
+    line-height: 2;
+}
+.hot-wings{
+    font-size: 3rem;
+    color: #66bfbf;
+    font-family:  "Montserrat", sans-serif;
+}
+.touch{
+    text-align: center;
+}
+.touch h4{
+     font-family:  "Montserrat", sans-serif;
+     padding: 30px;
+     color: #11999e;
+}
+.awesome{
+    text-align: center;
+    line-height: 15px;
+}
+.contact{
+    background-color: #11cdd4;
+    color: white;
+    border-style: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 180px;
+    /* display: flex;
+    align-items: center; */
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: x-large;
+}
+button:hover{
+background-color:#3ec4a9;
+}
+.linkedin{
+    background-color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    height: 300px;
+    padding-top: 40px;
+   
+}
+.linkedin a{
+    text-decoration: none;
+    padding: 10px;
+     color: #11999e;
+}
+.linkedin p {
+    padding-top: 50px;
+    color: white;
+}
+.linkedin a:hover{
+    color: white;
+}
